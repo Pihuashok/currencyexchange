@@ -29,4 +29,9 @@ public class CurrencyController {
 		 return exchangeValue;
 	
 	}
+	
+	
+	public void test(){
+		System.out.println("Working ");
+	}
 }

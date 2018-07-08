@@ -34,4 +34,8 @@ public class CurrencyController {
 	public void test(){
 		System.out.println("Working ");
 	}
+	
+	public void test2(){
+		System.out.println("Working ");
+	}
 }
